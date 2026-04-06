@@ -26,12 +26,12 @@ I specialize in transforming fragmented data into clear, interactive visualizati
 
 ## 📌 Featured Projects
 
-### 🔹 [Blinkit Sales Analysis](link-to-repo)
+### 🔹 [Blinkit Sales Analysis] [(link-to-repo)](link-to-repo)
 * **Objective:** Analyzed 50k+ sales records to identify delivery performance bottlenecks.
 * **Impact:** Created a Power BI dashboard that visualized a 15% potential increase in efficiency through route optimization.
 * **Tech:** Power BI, Excel, DAX.
 
-### 🔹 [LoanLedger - Risk Assessment](https://github.com/KS-Sonu/LoanLedger)
+### 🔹 [LoanLedger - Risk Assessment][(link-to-repo)](https://github.com/KS-Sonu/LoanLedger)
 * **LoanLedger** is a high-integrity Android fintech application designed to professionalize informal lending between individuals. It replaces unreliable manual records with a transparent, digital ecosystem that builds trust through mutual accountability.
 * **Tech:** Built with the latest Android development standards:
 
