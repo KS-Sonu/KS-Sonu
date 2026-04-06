@@ -27,7 +27,7 @@ I specialize in transforming fragmented data into clear, interactive visualizati
 ## 📌 Featured Projects
 
 ### 🔹 [Blinkit Sales Analysis] [(link-to-repo)](link-to-repo)
-* **Objective:** Analyzed 50k+ sales records to identify delivery performance bottlenecks.
+* **Objective:** Analyzed 10k+ sales records to identify Outlets performance bottlenecks.
 * **Impact:** Created a Power BI dashboard that visualized a 15% potential increase in efficiency through route optimization.
 * **Tech:** Power BI, Excel, DAX.
 
