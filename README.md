@@ -8,7 +8,7 @@ I find the story inside the data before I build the chart.
 
 ## About Me
 
-I am a final-year BCA student specialising in Data Analytics and Business Intelligence, with a focus on the e-commerce and quick commerce domain. My work centres on one question: **what does this data mean for the business, and what should we do about it?**
+I am a final-year BCA student specialising in Data Analytics and Business Intelligence, with a focus on the e-commerce , quick commerce and Finance domain. My work centres on one question: **what does this data mean for the business, and what should we do about it?**
 
 I do not just describe numbers. I form hypotheses, test them against real data, and build recommendations that stakeholders can act on. Three of my first five hypotheses in my Blinkit project were rejected by the data — and that is where the real insights came from.
 
