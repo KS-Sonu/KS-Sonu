@@ -77,6 +77,4 @@ Exploring the intersection of NLP and user interaction.
 ---
 
 ## Connect
-
-[![LinkedIn](https://www.linkedin.com/in/ks-sonu/)
 📧 ks.sonu@outlook.com
